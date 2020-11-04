@@ -1,0 +1,24 @@
+{
+  "name": "Tailwindcss-Build",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build:css": "tailwind build src/style.css -o public/style.css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sthompson-blip/Tailwindcss-Build.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sthompson-blip/Tailwindcss-Build/issues"
+  },
+  "homepage": "https://github.com/sthompson-blip/Tailwindcss-Build#readme",
+  "dependencies": {
+    "tailwindcss": "^1.9.6"
+  },
+  "devDependencies": {}
+}
